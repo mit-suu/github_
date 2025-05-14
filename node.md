@@ -8,3 +8,5 @@ repository (repo) :
 -git commit
 -git log
 -git log --oneline
+-git checkout {brandname}
+-git branch
