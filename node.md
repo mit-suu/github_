@@ -18,3 +18,7 @@ Remote:
 -git merge {brandname} tong hop
 -git branch -d {brandname}
 -git push
+-git fetch origin
+-git checkout -b staging origin/staging
+-git remote add origin {repo url}
+-git push origin {branch name}
