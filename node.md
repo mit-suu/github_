@@ -1,5 +1,10 @@
 #terms
 repository (repo) :
+Branch:
+Conflict:
+Local:
+Remote:
+
 #commands
 -git init
 -git status
@@ -11,5 +16,5 @@ repository (repo) :
 -git checkout {brandname}
 -git branch
 -git merge {brandname} tong hop
-
-- git branch -d {brandname}
+-git branch -d {brandname}
+-git push
