@@ -5,3 +5,4 @@ repository (repo) :
 -git status
 -git add
 -git reset
+-git commit
