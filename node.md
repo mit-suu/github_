@@ -10,3 +10,6 @@ repository (repo) :
 -git log --oneline
 -git checkout {brandname}
 -git branch
+-git merge {brandname} tong hop
+
+- git branch -d {brandname}
